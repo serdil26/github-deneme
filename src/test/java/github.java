@@ -4,5 +4,6 @@ public class github {
         System.out.println("github denemesi yapiyoruz");
         System.out.println("deneme2");
         System.out.println("sezgin branchinde degisiklik yaptim");
+        System.out.println("3cu degisiklik");
     }
 }
